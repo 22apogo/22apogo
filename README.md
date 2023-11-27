@@ -17,12 +17,14 @@ My name is Andrew and I am currently a full-time student at the[Queensland Unive
 ## :computer: Software I utilise
 
 <div align="center">
+Chrome, git, github, npm, slack, vscode, visual studio, intellij
 </div>
 
 
-## :hammer: Languages I utilise
+## :hammer: Languages and services I utilise
 
 <div align="center">
+ Python, React, Javascript, Java, HTML5, SQL, PowerShell, Bash, C
 </div>
 
 ---
@@ -35,8 +37,7 @@ In my freetime I have been honing my **skills** with the following multimedia to
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" height="48rem"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" height="48rem"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" height="48rem"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe Illustrator" height="48rem"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe Illustrator" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" height="48rem"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="48rem"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" height="48rem"/>&nbsp;
 </div>

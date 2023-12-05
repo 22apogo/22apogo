@@ -10,7 +10,7 @@
 
 ## :pushpin: About me
 
-My name is Andrew and I am currently a full-time student at the[Queensland University of Technology (QUT)](https://www.qut.edu.au/) studying a Bachelor of Information Technology, majoring in Computer Science and minoring in Network Security and Intelligent Systems.
+My name is Andrew and I am currently a full-time student at the [Queensland University of Technology (QUT)](https://www.qut.edu.au/) studying a Bachelor of Information Technology, majoring in Computer Science and minoring in Network Security and Intelligent Systems.
 
 ---
 
@@ -24,14 +24,22 @@ Chrome, git, github, npm, slack, vscode, visual studio, intellij
 ## :hammer: Languages and services I utilise
 
 <div align="center">
- Python, React, Javascript, Java, HTML5, SQL, PowerShell, Bash, C
+ Python, React, Javascript, HTML5, SQL, PowerShell, Bash, C
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="48rem"/>&nbsp;
 </div>
 
 ---
 
 ## :art: Interests
 
-In my freetime I have been honing my **skills** with the following multimedia tools and technologies...
+In my freetime I have been **honing my skills** with the following multimedia tools and technologies...
 
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" height="48rem"/>&nbsp;

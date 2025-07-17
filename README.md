@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Andrew and I am currently a full-time student at the [Queensland University of Technology (QUT)](https://www.qut.edu.au/) studying a Bachelor of Information Technology, majoring in Computer Science and minoring in Network Security and Intelligent Systems.
+My name is Andrew and I'm a Computer Science Graduate wtih a Bachelor of Information Technology, minoring in Network Security and Intelligent Systems.
 
 ## 🌐 Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-pogoda) 
